@@ -22,7 +22,7 @@
 
 # Ссылка для скачинвания APK:
 
-* 
+* https://github.com/Pavel-Mernov/Flutter-Task-1/releases/tag/v1.0
 
 # Скриншоты работы приложения:
 
